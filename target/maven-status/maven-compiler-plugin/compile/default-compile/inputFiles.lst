@@ -1,0 +1,10 @@
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\aggregators\AggregatorProcessor.java
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\client\Application.java
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\fileprocessors\StockFileData.java
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\aggregators\Aggregator.java
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\client\AggregatorApp.java
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\aggregators\MaxAggregator.java
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\client\StockFileApplication.java
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\fileprocessors\StockFileReader.java
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\aggregators\MeanAggregator.java
+D:\EclipseWorkspaces\StockAnalysis\stockaggregator\src\main\java\com\malay\stockaggregator\aggregators\MinAggregator.java
